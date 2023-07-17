@@ -1,0 +1,5 @@
+name: Arcade
+main: arcade.main
+version: 1337
+commands:
+  loc:
